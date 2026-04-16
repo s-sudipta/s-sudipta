@@ -32,7 +32,7 @@ I'm always up for a chat about **DevOps, cloud, automation**, or just life in ge
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-Let's%20Talk!-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudipta.saha1532@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Check%20it%20out!-6C63FF?style=for-the-badge&logo=firefox&logoColor=white)]([https://github.com/s-sudipta](https://sudiptasaha.s3.ap-south-1.amazonaws.com/index.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Check%20it%20out!-6C63FF?style=for-the-badge&logo=firefox&logoColor=white)]([https://github.com/s-sudipta](https://sudiptasaha.s3.ap-south-1.amazonaws.com/index.html))
 
 <br/>
 
